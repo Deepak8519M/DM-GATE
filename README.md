@@ -1,6 +1,3 @@
-Got it ✅
-Here’s a **clean README.md** you can use at the root of your repo so it works as an **index** for all DM subjects (Propositional Logic, First-Order Logic, Set Theory, Functions, Group Theory, Combinatorics, Graph Theory).
-
 ---
 
 ```markdown
@@ -64,7 +61,7 @@ Each topic has its own folder with subtopics, explanations, and solved problems.
 ## 📂 Repository Structure
 
 ```
-
+```
 DM-GATE-/
 ├── 01.PropositionalLogic/
 ├── 02.FirstOrderLogic/
@@ -73,7 +70,7 @@ DM-GATE-/
 ├── 05.GroupTheory/
 ├── 06.Combinatorics/
 └── 07.GraphTheory/
-
+```
 ```
 
 ---
