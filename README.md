@@ -1,5 +1,3 @@
-
-```markdown
 # Discrete Mathematics – GATE CSE Preparation
 
 This repository contains structured notes, examples, and problems for important **Discrete Mathematics** topics in GATE CSE.  
@@ -90,5 +88,5 @@ DM-GATE-/
 
 ✍ **Maintained by:** Deepak Mallareddy  
 📅 **Last updated:** _August 2025_
-```
+
 
