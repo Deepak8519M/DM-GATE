@@ -1,4 +1,3 @@
----
 
 ```markdown
 # Discrete Mathematics – GATE CSE Preparation
