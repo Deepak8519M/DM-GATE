@@ -59,7 +59,14 @@ Each topic has its own folder with subtopics, explanations, and solved problems.
 
 ## 📂 Repository Structure
 
-
+DM-GATE-/
+├── 01.PropositionalLogic/
+├── 02.FirstOrderLogic/
+├── 03.SetTheory/
+├── 04.Functions/
+├── 05.GroupTheory/
+├── 06.Combinatorics/
+└── 07.GraphTheory/
 
 
 
