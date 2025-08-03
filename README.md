@@ -1,6 +1,7 @@
 # Discrete Mathematics – GATE CSE Preparation
 
-This repository contains structured notes, examples, and problems for important **Discrete Mathematics** topics in GATE CSE.  
+This repository contains structured notes, examples, and problems for important **Discrete Mathematics** topics in GATE CSE. 
+
 Each topic has its own folder with subtopics, explanations, and solved problems.
 
 ---
